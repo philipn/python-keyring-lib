@@ -1,1 +1,1 @@
-buildout = [svn]https://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+buildout = [svn]http://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
