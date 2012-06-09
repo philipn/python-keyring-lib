@@ -1,1 +1,1 @@
-buildout = [svn]http://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+buildout = http://bitbucket.org/jaraco/zc.buildout-bootstrap
